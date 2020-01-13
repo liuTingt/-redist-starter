@@ -1,0 +1,2 @@
+# 前半段为EnableAutoConfiguration，这样再Spring Boot启动时，才会在配置文件中到秒到MyRedisAutoConfiguration，进而去扫描该类
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.my.redis.my_redis_starter.MyRedisAutoConfiguration

@@ -1,0 +1,3 @@
+com\my\redis\my_redis_starter\JedisTemplete.class
+com\my\redis\my_redis_starter\MyRedisProperties.class
+com\my\redis\my_redis_starter\MyRedisAutoConfiguration.class
